@@ -22,6 +22,7 @@ User Stories:-
  Team members : Nirmai, Manish, Neeraj
  
  We started created a navigation bar and created a left and right arrows to navigate to next and previous learning objectives. Then we created two cards one for learning      objective and other for recommendations and also placed two buttons in learning objective section.
+ 
 ![ilms](https://user-images.githubusercontent.com/72124209/118987193-aa1d8f00-b99d-11eb-85cc-8fc4acbd227f.PNG)
 
 ### Sprint-3
@@ -37,22 +38,3 @@ We created a progress bar by which we can understand how much of the course is t
 
 
 
- 
-1. Numbered
-2. List
-## Header 2
-### Header 3
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nirmai3799/Work-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
