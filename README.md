@@ -21,8 +21,9 @@ User Stories:-
  ```
  Team members : Nirmai, Manish, Neeraj
  We started created a navigation bar and created a left and right arrows to navigate to next and previous learning objectives. Then we created two cards one for learning      objective and other for recommendations and also placed two buttons in learning objective section.
-![ilms](https://user-images.githubusercontent.com/72124209/118987193-aa1d8f00-b99d-11eb-85cc-8fc4acbd227f.PNG)
  ```
+![ilms](https://user-images.githubusercontent.com/72124209/118987193-aa1d8f00-b99d-11eb-85cc-8fc4acbd227f.PNG)
+
  
 1. Numbered
 2. List
