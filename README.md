@@ -22,6 +22,8 @@ Team members : Manish, Nirmai, Neeraj, Satyanarayana, Santhosh, Karthick
 
 Work Description: Discussed with team members on sketching of the prototype. We all worked on paint for sketching our idea. Presented the sketch to mentor using Google Slides, then by using Just in Mind application we build our prototype for the website. We Split into Two teams.
 
+![PIC](https://user-images.githubusercontent.com/72124209/120312224-12e9fd00-c2f6-11eb-8914-5ea1e6a24908.png)
+
 ### Sprint-2
 Duration: 10 May, 2021 to 15 May, 2021
 
@@ -48,6 +50,16 @@ Work Description: Integrated sprint 2 plan of both teams. We created a progress 
 
 ![ilms1](https://user-images.githubusercontent.com/72124209/118993993-970dbd80-b9a3-11eb-9be6-9263d4badf40.PNG)
 
+### Sprint-4
 
+Duration: 24 May, 2021 to 29 May. 2021
 
+Plan: To build a pagination for the learning objectives, Complete the Documentation for the code.
 
+Technologies: ReactJS, Bootstrap, Visual Studio.
+
+Team members: Manish, Nirmai
+
+Work Description: Intially gone through the resources for pagination then started implementing. We got Pagination and adjusted on the top center of the page by using Bootstap for styling and ReactJs. Then we tried to display the static data by fetching it from the JSON file. We helped other team in created the character by canva.
+
+![p3](https://user-images.githubusercontent.com/72124209/120312187-0796d180-c2f6-11eb-9435-60db683a05ff.PNG)
