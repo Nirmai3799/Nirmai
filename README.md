@@ -63,3 +63,15 @@ Team members: Manish, Nirmai
 Work Description: Intially gone through the resources for pagination then started implementing. We got Pagination and adjusted on the top center of the page by using Bootstap for styling and ReactJs. Then we tried to display the static data by fetching it from the JSON file. We helped other team in created the character by canva.
 
 ![p3](https://user-images.githubusercontent.com/72124209/120312187-0796d180-c2f6-11eb-9435-60db683a05ff.PNG)
+
+### Sprint-5
+
+Duration: 31 May,2021 to 5 June,2021
+
+Plan: To navigate from one page to another by clicking on a button and integrating all codes and to start working on backend.
+
+Technologies : ReactJs, Visual studio.
+
+Team members: Manish, Nirmai 
+
+Work Description : Intially gone through the resources on backend and created GCP account and worked on few basic commands on running hello world App and also continued working on front end parellely and successful with the navigation of buttons from one page to another
